@@ -9,7 +9,3 @@ for skaitlis in range(start, stop):
     elif skaitlis % 3 == 0:
         print("Bum")
     print(skaitlis)
-
-for skaitlis in range(start, stop):
-    if skaitlis % 3 == 0 and skaitlis % 5 == 0:
-        print("BumRum")
